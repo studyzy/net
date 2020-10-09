@@ -16,7 +16,7 @@ import (
 	"context"
 	"crypto/rand"
 	"github.com/studyzy/crypto/tls"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"encoding/binary"
 	"errors"
 	"fmt"

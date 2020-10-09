@@ -8,7 +8,7 @@ import (
 	"bufio"
 	"bytes"
 	"github.com/studyzy/crypto/tls"
-	"crypto/x509"
+	"github.com/studyzy/crypto/x509"
 	"fmt"
 	"io"
 	"io/ioutil"
