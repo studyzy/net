@@ -9,7 +9,7 @@ package httptrace
 import (
 	"context"
 	"github.com/studyzy/crypto/tls"
-	"internal/nettrace"
+	"github.com/studyzy/net/http/httptrace/internal/nettrace"
 	"net"
 	"net/textproto"
 	"reflect"
